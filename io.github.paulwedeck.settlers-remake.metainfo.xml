@@ -28,6 +28,9 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="v0.6.0.6-alpha" date="2023-01-24" type="development">
+      <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.6.0.6-alpha</url>
+    </release>
     <release version="v0.6.0.4-alpha" date="2022-10-09" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.6.0.4-alpha</url>
     </release>
@@ -40,25 +43,25 @@
     <release version="v0.6.0.1-alpha" date="2022-05-20" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.6.0.1-alpha</url>
     </release>
-    <release version="v0.6-alpha" date="2022-03-27" type="stable">
+    <release version="v0.6.0.0-alpha" date="2022-03-27" type="stable">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.6-alpha</url>
     </release>
     <release version="v0.5.4.2-alpha" date="2022-03-09" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.4.2-alpha</url>
     </release>
-    <release version="v0.5.4-alpha" date="2022-03-06" type="stable">
+    <release version="v0.5.4.0-alpha" date="2022-03-06" type="stable">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.4-alpha</url>
     </release>
-    <release version="v0.5.3-alpha4" date="2022-02-05" type="development">
+    <release version="v0.5.3.0-alpha4" date="2022-02-05" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.3-alpha4</url>
     </release>
-    <release version="v0.5.3-alpha3" date="2022-02-02" type="development">
+    <release version="v0.5.3.0-alpha3" date="2022-02-02" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.3-alpha3</url>
     </release>
-    <release version="v0.5.3-alpha2" date="2021-11-11" type="development">
+    <release version="v0.5.3.0-alpha2" date="2021-11-11" type="development">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.3-alpha2</url>
     </release>
-    <release version="v0.5.3-alpha" date="2021-10-24" type="stable">
+    <release version="v0.5.3.0-alpha" date="2021-10-24" type="stable">
       <url>https://github.com/paulwedeck/settlers-remake/releases/tag/v0.5.3-alpha</url>
     </release>
     <release version="v0.5.2-alpha" date="2021-10-17" type="stable">
