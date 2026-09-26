@@ -5,15 +5,21 @@
   <name>JSettlers</name>
   <summary>A Remake of "The Settlers III" for Windows, Linux, Mac and Android</summary>
   <summary xml:lang="de">Ein "Die Siedler III" remake für Windows, Linux, Mac und Android</summary>
-  <developer_name>paulwedeck</developer_name>
+  <developer id="io.github.paulwedeck">
+    <name>paulwedeck</name>
+  </developer>
   <launchable type="desktop-id">io.github.paulwedeck.settlers-remake.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MIT</project_license>
   <description>
-    <p>JSettlers is an open source remake of the game The Settlers III by BlueByte. The main goal of the game is to build an economy and fight other players.</p>
-    <p xml:lang="de">JSettlers ist ein Open-Source-Remake des Spiels "Die Siedler III" von BlueByte. Das Hauptziel des Spiels ist es, eine Wirtschaft aufzubauen und andere Spieler zu bekämpfen.</p>
-    <p>JSettlers needs the graphics files from an original Settlers III installation. The demo version work as well but only contains Roman and Amazon graphics files.</p>
-    <p xml:lang="de">JSettlers benötigt die Grafikdateien aus einer originalen "Siedler III" Installation. Die Demoversion funktioniert ebenfalls, enthält aber nur Römer und AmazonenGrafikdateien.</p>
+    <p>JSettlers is an open source remake of the game The Settlers III by BlueByte.
+      The main goal of the game is to build an economy and fight other players.</p>
+    <p xml:lang="de">JSettlers ist ein Open-Source-Remake des Spiels "Die Siedler III" von BlueByte.
+      Das Hauptziel des Spiels ist es, eine Wirtschaft aufzubauen und andere Spieler zu bekämpfen.</p>
+    <p>JSettlers needs the graphics files from an original Settlers III installation.
+      The demo version work as well but only contains Roman and Amazon graphics files.</p>
+    <p xml:lang="de">JSettlers benötigt die Grafikdateien aus einer originalen "Siedler III" Installation.
+      Die Demoversion funktioniert ebenfalls, enthält aber nur Römer und AmazonenGrafikdateien.</p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -79,11 +85,7 @@
   </releases>
   <url type="homepage">https://github.com/paulwedeck/settlers-remake</url>
   <url type="bugtracker">https://github.com/paulwedeck/settlers-remake/issues</url>
-  <categories>
-    <category>Game</category>
-    <category>StrategyGame</category>
-    <category>Java</category>
-  </categories>
+  <url type="vcs-browser">https://github.com/paulwedeck/settlers-remake</url>
   <recommends>
     <control>pointing</control>
     <control>keyboard</control>
@@ -95,13 +97,4 @@
     <binary>jsettlers</binary>
     <binary>jsettlers-mapcreator</binary>
   </provides>
-  <keywords>
-    <keyword>Settler</keyword>
-    <keyword>RTS</keyword>
-    <keyword>Realtime Strategy</keyword>
-    <keyword>Economic Simulation Game</keyword>
-    <keyword>History</keyword>
-    <keyword>Warfare</keyword>
-    <keyword>Romans</keyword>
-  </keywords>
 </component>
